@@ -1,0 +1,23 @@
+c:\users\jiacc\documents\visual studio 2017\Projects\Ptolemy\Ptolemy\bin\Debug\Ptolemy.exe.config
+c:\users\jiacc\documents\visual studio 2017\Projects\Ptolemy\Ptolemy\bin\Debug\Ptolemy.exe
+c:\users\jiacc\documents\visual studio 2017\Projects\Ptolemy\Ptolemy\bin\Debug\Ptolemy.pdb
+c:\users\jiacc\documents\visual studio 2017\Projects\Ptolemy\Ptolemy\obj\Debug\Ptolemy.csprojResolveAssemblyReference.cache
+c:\users\jiacc\documents\visual studio 2017\Projects\Ptolemy\Ptolemy\obj\Debug\Ptolemy.Form1.resources
+c:\users\jiacc\documents\visual studio 2017\Projects\Ptolemy\Ptolemy\obj\Debug\Ptolemy.Properties.Resources.resources
+c:\users\jiacc\documents\visual studio 2017\Projects\Ptolemy\Ptolemy\obj\Debug\Ptolemy.csproj.GenerateResource.Cache
+c:\users\jiacc\documents\visual studio 2017\Projects\Ptolemy\Ptolemy\obj\Debug\Ptolemy.exe
+c:\users\jiacc\documents\visual studio 2017\Projects\Ptolemy\Ptolemy\obj\Debug\Ptolemy.pdb
+I:\Ptolemy\Ptolemy\bin\Debug\Ptolemy.exe.config
+I:\Ptolemy\Ptolemy\bin\Debug\Ptolemy.exe
+I:\Ptolemy\Ptolemy\bin\Debug\Ptolemy.pdb
+I:\Ptolemy\Ptolemy\obj\Debug\Ptolemy.csprojResolveAssemblyReference.cache
+I:\Ptolemy\Ptolemy\obj\Debug\Ptolemy.Form1.resources
+I:\Ptolemy\Ptolemy\obj\Debug\Ptolemy.Properties.Resources.resources
+I:\Ptolemy\Ptolemy\obj\Debug\Ptolemy.csproj.GenerateResource.Cache
+I:\Ptolemy\Ptolemy\obj\Debug\Ptolemy.exe
+I:\Ptolemy\Ptolemy\obj\Debug\Ptolemy.pdb
+I:\Ptolemy\Ptolemy\obj\Debug\Ptolemy.EditParameters.resources
+I:\Ptolemy\Ptolemy\bin\Debug\Port.dll
+I:\Ptolemy\Ptolemy\bin\Debug\Port.pdb
+I:\Ptolemy\Ptolemy\bin\Debug\CPSControlLibrary.dll
+I:\Ptolemy\Ptolemy\bin\Debug\CPSControlLibrary.pdb
