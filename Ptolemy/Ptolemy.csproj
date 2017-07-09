@@ -34,7 +34,7 @@
   <ItemGroup>
     <Reference Include="CPSControlLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Users\lenovo\Desktop\CPSControlLibrary\CPSControlLibrary\bin\Debug\CPSControlLibrary.dll</HintPath>
+      <HintPath>..\..\CPSControlLibrary\CPSControlLibrary\bin\Debug\CPSControlLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Port">
       <HintPath>C:\Users\lenovo\Documents\Tencent Files\1132760858\FileRecv\Port\Port\Port\bin\Debug\Port.dll</HintPath>
@@ -52,26 +52,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EditParameters.cs">
+    <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="EditParameters.Designer.cs">
-      <DependentUpon>EditParameters.cs</DependentUpon>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="IOport.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="EditParameters.resx">
-      <DependentUpon>EditParameters.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -21,3 +21,15 @@ I:\Ptolemy\Ptolemy\bin\Debug\Port.dll
 I:\Ptolemy\Ptolemy\bin\Debug\Port.pdb
 I:\Ptolemy\Ptolemy\bin\Debug\CPSControlLibrary.dll
 I:\Ptolemy\Ptolemy\bin\Debug\CPSControlLibrary.pdb
+C:\Users\caozh\Documents\GitHub\Ptolemy\Ptolemy\bin\Debug\Ptolemy.exe.config
+C:\Users\caozh\Documents\GitHub\Ptolemy\Ptolemy\bin\Debug\Ptolemy.exe
+C:\Users\caozh\Documents\GitHub\Ptolemy\Ptolemy\bin\Debug\Ptolemy.pdb
+C:\Users\caozh\Documents\GitHub\Ptolemy\Ptolemy\bin\Debug\CPSControlLibrary.dll
+C:\Users\caozh\Documents\GitHub\Ptolemy\Ptolemy\bin\Debug\CPSControlLibrary.pdb
+C:\Users\caozh\Documents\GitHub\Ptolemy\Ptolemy\bin\Debug\Port.pdb
+C:\Users\caozh\Documents\GitHub\Ptolemy\Ptolemy\obj\Debug\Ptolemy.csprojResolveAssemblyReference.cache
+C:\Users\caozh\Documents\GitHub\Ptolemy\Ptolemy\obj\Debug\Ptolemy.Properties.Resources.resources
+C:\Users\caozh\Documents\GitHub\Ptolemy\Ptolemy\obj\Debug\Ptolemy.csproj.GenerateResource.Cache
+C:\Users\caozh\Documents\GitHub\Ptolemy\Ptolemy\obj\Debug\Ptolemy.exe
+C:\Users\caozh\Documents\GitHub\Ptolemy\Ptolemy\obj\Debug\Ptolemy.pdb
+C:\Users\caozh\Documents\GitHub\Ptolemy\Ptolemy\obj\Debug\Ptolemy.MainForm.resources
